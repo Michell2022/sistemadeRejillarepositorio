@@ -1,0 +1,33 @@
+
+div{
+    border: 5px solid white;
+}
+.verde1{
+    background: greenyellow;
+    height: 50px;
+}
+.rojo{
+    background: #ff0000;
+}
+.rosado{
+    background: #ff00ff;
+    height: 50px;
+}
+.naranja{
+    background: #ff9955;
+    height: 180px;
+}
+.azul{
+    background: #0000ff;
+    height: 85px;
+}
+.verde2{
+    background: greenyellow;
+    height: 35px;
+}
+
+@media(max-width:576px){
+    .rojo{
+        height: 50px;
+    }
+}
